@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Condition-Loops/Condition-Loops.iml" filepath="$PROJECT_DIR$/Condition-Loops/Condition-Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Condition-loops.iml" filepath="$PROJECT_DIR$/.idea/Condition-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+    </modules>
+  </component>
+</project>
